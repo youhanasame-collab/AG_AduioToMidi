@@ -1,5 +1,1 @@
-streamlit
-librosa
-numpy
-scipy
-basic-pitch==0.2.6
+basic-pitch
